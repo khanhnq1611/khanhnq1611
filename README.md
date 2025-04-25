@@ -1,15 +1,11 @@
 <h2 align="left">Hey there 👋, I'm KhanhNQ!</h2>
 <h4 align="left">CTF player | Web & Pwn enthusiast | Blockchain explorer</h4>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=khanhnq1611&style=flat-square&color=blue" alt="Profile views" />
-</p>
 
 ###
 
 <img align="right" height="180" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
 
-<div align="left">
                                                                         
 @@@@@@@   @@@@@@@@  @@@@@@@   @@@@@@@  @@@@@@@@   @@@@@@   @@@@@@@@@@   
 @@@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@@@@@  
@@ -22,7 +18,6 @@
 ::   :::   :: ::::   :::: ::     ::     :: ::::  ::   :::  :::     ::   
  :   : :  : :: ::   :: :  :      :     : :: ::    :   : :   :      :    
                                                                         
-</div>
 
 ###
 
