@@ -10,10 +10,18 @@
 <img align="right" height="180" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
 
 <div align="left">
-  🚩 I'm passionate about hacking things, breaking boundaries, and learning by doing.<br>
-  🧠 Always hungry for new challenges in CTFs — especially Web, Pwn, and Smart Contracts.<br>
-  🕵️‍♂️ Currently leveling up my skills in exploit development & blockchain security.<br>
-  💻 Code, Hack, Repeat.
+                                                                        
+@@@@@@@   @@@@@@@@  @@@@@@@   @@@@@@@  @@@@@@@@   @@@@@@   @@@@@@@@@@   
+@@@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@@@@@  
+@@!  @@@  @@!       @@!  @@@    @@!    @@!       @@!  @@@  @@! @@! @@!  
+!@!  @!@  !@!       !@!  @!@    !@!    !@!       !@!  @!@  !@! !@! !@!  
+@!@!!@!   @!!!:!    @!@  !@!    @!!    @!!!:!    @!@!@!@!  @!! !!@ @!@  
+!!@!@!    !!!!!:    !@!  !!!    !!!    !!!!!:    !!!@!!!!  !@!   ! !@!  
+!!: :!!   !!:       !!:  !!!    !!:    !!:       !!:  !!!  !!:     !!:  
+:!:  !:!  :!:       :!:  !:!    :!:    :!:       :!:  !:!  :!:     :!:  
+::   :::   :: ::::   :::: ::     ::     :: ::::  ::   :::  :::     ::   
+ :   : :  : :: ::   :: :  :      :     : :: ::    :   : :   :      :    
+                                                                        
 </div>
 
 ###
