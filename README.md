@@ -1,5 +1,5 @@
 <h2 align="left">Hey there 👋, I'm KhanhNQ!</h2>
-<h4 align="left">CTF player | Web & Binary Exploit enthusiast | Log Analyst</h4>
+<h4 align="left">CTF player | Log Analyst</h4>
 
 
 <pre align="center">                                                                        
